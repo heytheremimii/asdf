@@ -78,7 +78,7 @@ nav li.on a:after {width:100%;}
 .pf03 .pt_slider figure {padding:100px 10px;}
 .pf03 .pt_slider figure img {width:100%;border-radius:50%;box-shadow:0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);}
 .pf03 {overflow:hidden;}
-.pf03 i {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:300px;cursor:pointer;}
+.pf03 i {position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:150px;cursor:pointer;}
 .pf03 i.xi-arrow-left {color:#162B1E;margin-left:-700px;}
 .pf03 i.xi-arrow-right {color:#162B1E;margin-left:700px;}
 
